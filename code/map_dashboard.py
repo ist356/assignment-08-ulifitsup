@@ -13,7 +13,7 @@ ZOOM = 14                   # zoom level
 VMIN = 1000                 # min value for color scale
 VMAX = 5000                 # max value for color scale
 
-df = pd.read_csv('./cache/top_locations_mappable.csv')
+df = pd.read_csv('../cache/top_locations_mappable.csv')
 
 st.title('Top Locations for Parking Tickets within Syracuse')
 st.caption('This dashboard shows the parking tickets that were issued in the top locations with $1,000 or more in total aggregate violation amounts.')
