@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Xinglai Pang
+Sudent Email:  xpang03@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
+In this assignment I learned a bit more about streamlit, especially it is capable of making more comprehensive data presentation, like presenting on a map. Also I learned more about pyplot and seaborn and how they could be used in data presentation. 
